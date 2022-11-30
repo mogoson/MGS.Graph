@@ -13,6 +13,10 @@
 
 - Windows
 
+## Version
+
+- 0.1.0
+
 ## Demand
 
 - Load Texture2D from GIF file.
@@ -25,6 +29,10 @@
 
 ## Demo
 - Demos in the path "MGS.Packages/Graph/Demo/" provide reference to you.
+
+## Source
+
+- https://github.com/mogoson/MGS.Graph
 
 ------
 
