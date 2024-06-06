@@ -1,0 +1,7 @@
+{
+    "description": "Unity plugin for graph.",
+    "displayName": "Graph",
+    "name": "com.mgs.graph",
+    "unity": "2019.4",
+    "version": "1.0.0"
+}
