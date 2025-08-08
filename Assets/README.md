@@ -7,7 +7,7 @@
 
 ## Environment
 - .Net Framework 3.5 or above.
-- Unity 5.0 or above.
+- Unity 2019 or above.
 
 ## Platform
 
@@ -25,4 +25,4 @@
 
 ------
 
-Copyright © 2022 Mogoson.	mogoson@outlook.com
+Copyright © 2025 Mogoson.	mogoson@outlook.com
