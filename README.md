@@ -6,12 +6,7 @@
 - Unity plugin for graph.
 
 ## Environment
-- .Net Framework 3.5 or above.
 - Unity 2021.3 or above.
-
-## Platform
-
-- Windows
 
 ## Demand
 
