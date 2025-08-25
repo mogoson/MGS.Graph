@@ -5,10 +5,7 @@
 ## Summary
 - Unity plugin for graph.
 
-## Environment
-- Unity 2021.3 or above.
-
-## Demand
+## Ability
 
 - Load Texture2D from GIF file.
 
