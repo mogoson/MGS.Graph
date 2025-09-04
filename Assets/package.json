@@ -1,7 +1,23 @@
 {
-    "description": "Unity plugin for graph.",
-    "displayName": "Graph",
     "name": "com.mgs.graph",
+    "version": "1.0.0",
+    "displayName": "Graph",
+    "description": "Unity plugin for graph.",
     "unity": "2021.3",
-    "version": "1.0.0"
+    "keywords": [
+        "graph",
+        "gif"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://www.mogoson.com"
+    },
+    "samples": [
+        {
+            "displayName": "Demo",
+            "description": "Demo for graph",
+            "path": "Samples~/Demo"
+        }
+    ]
 }
