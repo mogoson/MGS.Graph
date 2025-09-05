@@ -1,5 +1,5 @@
 {
-    "name": "MGS.Graph.Demo",
+    "name": "MGS.Graph.Sample",
     "rootNamespace": "",
     "references": [
         "MGS.Graph"

@@ -1,7 +1,7 @@
 ﻿/*************************************************************************
  *  Copyright © 2022 Mogoson. All rights reserved.
  *------------------------------------------------------------------------
- *  File         :  LoadGifDemo.cs
+ *  File         :  LoadGif.cs
  *  Description  :  
  *------------------------------------------------------------------------
  *  Author       :  Mogoson
@@ -13,15 +13,15 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MGS.Graph.Demo
+namespace MGS.Graph.Sample
 {
-    public class LoadGifDemo : MonoBehaviour
+    public class LoadGif : MonoBehaviour
     {
         int index = 0;
 
         void Start()
         {
-            var gifFile = string.Format("{0}/Samples/Graph/1.0.0/Demo/Textures/Running.gif", Application.dataPath);
+            var gifFile = string.Format("{0}/Samples/Graph/1.0.0/Sample/Textures/Running.gif", Application.dataPath);
             StartCoroutine(GraphUtility.LoadGifFromFile(gifFile, OnLoadProgress));
         }
 
