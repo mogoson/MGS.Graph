@@ -6,4 +6,4 @@ All notable changes to this package will be documented in this file. The format 
 
 ### Release
 
-- First version.
+- Release as standard Unity package.
