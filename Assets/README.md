@@ -15,6 +15,11 @@
 
 - ImageUtility
 
+## Settings
+
+- Edit --> Project Settings --> Player --> Other Settings --> Configuration --> Api Compatibility Level.
+  - .NET Framework
+
 ------
 
 Copyright © 2025 Mogoson.	mogoson@outlook.com
